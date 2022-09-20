@@ -14,7 +14,8 @@ def CheckCEP(CEP):
             print('Não encontrou esse CEP em lugar nenhum do Brasil')
     else:
         print('Não foi possível pesquisar com o CEP informado')
-    
-CheckCEP('09581310')
+
+
+### Execução ###
 CheckCEP('00000000')
-CheckCEP('0000000')
+
